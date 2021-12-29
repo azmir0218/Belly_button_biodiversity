@@ -89,7 +89,7 @@ d3.json(url).then(function (Newdata) {
     let gauge_chart = [{
         domain: { x: [0, 1], y: [0, 1] },
         value: wash_f,
-        title: "Belly Button Washing Frequency",
+        title: "Weekly Belly Button Washing Frequency",
         type: "indicator",
         mode: "gauge+number+delta",
         gauge: {
