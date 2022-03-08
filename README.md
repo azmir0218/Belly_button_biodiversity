@@ -26,4 +26,6 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 * Updated the chart whenever a new sample is selected.
 
+<img width="592" alt="Screen Shot 2021-10-28 at 6 29 10 PM" src="https://github.com/azmir0218/Belly_button_biodiversity/blob/main/dashboard.png">
+
 
